@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+      {
+        "source": {
+          "id": null,
+          "name": "ScienceAlert"
+        },
+        "author": "Michelle Starr",
+        "title": "30-Million-Year-Old Hypercarnivore Skull 'Dream Find' For Paleontologists - Yahoo",
+        "description": "In Fayum, Egypt, where now lies a barren desert, a lush forest once stood, teeming with life.",
+        "url": "https://www.sciencealert.com/30-million-year-old-hypercarnivore-skull-dream-find-for-paleontologists",
+        "urlToImage": "https://www.sciencealert.com/images/2025/02/Hypercarnivore.jpg",
+        "publishedAt": "2025-02-18T04:42:00Z",
+        "content": "In Fayum, Egypt, where now lies a barren desert, a lush forest once stood, teeming with life.\r\nParadise for all creatures therein, however, it was not. The primates, hippopotamuses, elephants, and hy… [+3858 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "SciTechDaily"
+        },
+        "author": null,
+        "title": "A Deep-Sea Telescope Just Detected the Most Energetic Ghost Particle Ever - SciTechDaily",
+        "description": "A neutrino of record-breaking energy — 220 PeV — has been detected by the underwater KM3NeT telescope, marking a pivotal moment in astrophysics. This tiny but powerful particle, born from the universe’s most extreme events, provides fresh clues about cosmic a…",
+        "url": "https://scitechdaily.com/a-deep-sea-telescope-just-detected-the-most-energetic-ghost-particle-ever/",
+        "urlToImage": "https://scitechdaily.com/images/KM3NeT-Detector-Underwater.jpg",
+        "publishedAt": "2025-02-18T03:25:51Z",
+        "content": "A record-breaking neutrino detected in the Mediterranean may hold the key to understanding the most extreme events in the universe. Could it be from a cosmic accelerator — or something even more myst… [+8476 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ScienceAlert"
+        },
+        "author": "Universe Today",
+        "title": "Study Reveals What Would Happen if You Were Struck by a Tiny Black Hole - ScienceAlert",
+        "description": "In 1974, science fiction author Larry Niven wrote a murder mystery with an interesting premise: could you kill a man with a tiny black hole? I won't spoil the story, though I'm willing to bet most people would argue the answer is clearly yes.",
+        "url": "https://www.sciencealert.com/study-reveals-what-would-happen-if-you-were-struck-by-a-tiny-black-hole",
+        "urlToImage": "https://www.sciencealert.com/images/2025/02/abstract_black_hole_header.jpg",
+        "publishedAt": "2025-02-18T01:26:51Z",
+        "content": "In 1974, science fiction author Larry Niven wrote a murder mystery with an interesting premise: could you kill a man with a tiny black hole?\r\nI won't spoil the story, though I'm willing to bet most p… [+3353 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ScienceAlert"
+        },
+        "author": "Russell McLendon",
+        "title": "Scientists Just Found The Perfect Disguise to Sneak Into a Termite Colony - ScienceAlert",
+        "description": "Beneath the rocky soil of Morocco, researchers have uncovered a surprising intruder living undetected inside termite colonies.",
+        "url": "https://www.sciencealert.com/scientists-just-found-the-perfect-disguise-to-sneak-into-a-termite-colony",
+        "urlToImage": "https://www.sciencealert.com/images/2025/02/fly-larva-fake-termite-head.jpg",
+        "publishedAt": "2025-02-17T22:01:16Z",
+        "content": "Beneath the rocky soil of Morocco, researchers have uncovered a surprising intruder living undetected inside termite colonies.\r\nFew outsiders gain acceptance in termite society, but a species of blow… [+5360 chars]"
+      }
+    ]
+  }
